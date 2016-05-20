@@ -1,0 +1,26 @@
+.no_margin
+{
+    margin:0px 0px 0px 0px;
+}
+
+.no_padding
+{
+    padding:0px 0px 0px 0px;
+}
+
+.header_section
+{
+    margin-right:0px;
+    margin-left:0px;
+    background-color:#43a7fd;
+}
+
+.opaque
+{
+    opacity: 1;
+}
+
+.full_width
+{
+    width:100%;
+}
